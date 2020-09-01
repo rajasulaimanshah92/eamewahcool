@@ -22,9 +22,9 @@ h4 {
 }
 
 .jumbotron {
-    background-image: url("../img/aircond.jpg");
+    background-image: url("../img/nn.gif");
     background-size: cover;
-    color: midnightblue;
+    color: rgb(5, 20, 104);
     padding: 100px 25px;
     font-family: Montserrat, sans-serif;
 }
@@ -141,7 +141,7 @@ h4 {
     font-size: 12px !important;
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
-    border-radius: 0;
+    border-radius: 5;
     font-family: Montserrat, sans-serif;
 }
 
